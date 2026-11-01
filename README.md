@@ -16,24 +16,11 @@ Hi, I'm Abu Bakar. I'm in my final year of a BSc in Computer Science and Technol
 University of Electronic Science and Technology of China, studying in an English-medium
 programme. I'm from Brahmanbaria in Bangladesh and I've been in Chengdu since 2023.
 
-I study AI reliability, which for me mostly means asking whether a model gives the same
-answer when the same problem arrives in a different shape. My undergraduate research does
-exactly that with network control: take one virtual network function placement instance,
-encode it five ways (edge list, adjacency matrix, prose, JSON, ranked neighbour lists), and
-see whether the placement survives the change. It does not always. Feasibility moved by 17.5
-points for one model on formatting alone, while the other barely noticed. Worth knowing
-before anyone hands a model the keys to a network.
+My interests lie at the intersection of agentic AI, large language models (LLMs), computer networking, cryptography, and machine learning.
 
-Outside that I write small programs that measure something instead of assuming it. Most of
-them do one job, print a short report, and stop.
+My undergraduate research examines whether large language models give consistent answers when the same network-optimisation problem is presented in different input formats, a quiet reliability issue for AI-driven network control. I also contribute a computer-science perspective to a cross-disciplinary study on AI adoption and green innovation in Chinese high-tech firms.
 
-## 🔭 Currently
-
-- Finishing the VNF placement study and writing it up
-- The other paper is a collaborative one, on AI adoption and green innovation in Chinese
-  firms, where I cover the computer science side
-- Filling in gaps in my systems background, mostly networking and distributed code
-- Campus ambassador for the Bangladesh-China Youth Student Association at UESTC
+Outside research, I write open-source tooling, including evaluation harnesses, infrastructure checkers, and agentic AI applications for healthcare, banking, e-commerce, communications, and cosmology.
 
 ## 📊 At a Glance
 
