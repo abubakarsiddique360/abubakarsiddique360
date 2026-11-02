@@ -100,7 +100,7 @@ systems.
 | **Website** | [cs-abubakarsiddique.me](https://cs-abubakarsiddique.me) |
 | **Email** | abubakarsiddique.cst@gmail.com |
 | **University email** | abubakarsiddique@std.uestc.edu.cn |
-| **LinkedIn** | [linkedin.com/in/e-abs](https://www.linkedin.com/in/engr-abubakarsiddique/) |
+| **LinkedIn** | [linkedin.com/in/engr-abubakarsiddique](https://www.linkedin.com/in/engr-abubakarsiddique/) |
 | **Based in** | Chengdu, Sichuan, China · GMT+8 |
 
 Happy to talk about any of it, especially evaluation for agents, which is the part of this
