@@ -20,7 +20,7 @@ My interests lie at the intersection of agentic AI, large language models (LLMs)
 
 My undergraduate research examines whether large language models give consistent answers when the same network-optimisation problem is presented in different input formats, a quiet reliability issue for AI-driven network control. I also contribute a computer-science perspective to a cross-disciplinary study on AI adoption and green innovation in Chinese high-tech firms.
 
-Outside research, I write open-source tooling, including evaluation harnesses, infrastructure checkers, and agentic AI applications for healthcare, banking, e-commerce, communications, and cosmology.
+Outside research, I write open-source tooling, including evaluation harnesses, infrastructure checkers, and agentic AI applications for healthcare, and I look forward to working on agentic AI banking, e-commerce, communications, and cosmology. 
 
 ## 📊 At a Glance
 
